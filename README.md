@@ -1,2 +1,2 @@
 # ruby_undertakings
-A repository of reviewed ruby files from Skillcrush 104
+A repository of reviewed ruby files about Skillcrush 104
